@@ -1,0 +1,4 @@
+buildcontext: é uma classe utilitaria onde está registrado TODOS os widgets da estrutura. TODO widget
+que tenha um metodo build recebe o buildcontext. Serve para vc encontrar um elemento de uma forma mais simples.
+Um identificador para a localização de um widget na árvore de widgets.
+https://www.youtube.com/watch?v=81Xjrnsw2es  - videozinho bala que explica o buildcontext
